@@ -1,0 +1,101 @@
+,Case Number,Case Date Time,Case Location,Case Offense Location Type,Case Offense Category,Case Offense Type,Case Offense Charge Type,Case Disposition,Status,Location
+0,2020-00000700,01/01/2020 03:44:00 PM,9400 Block of JEFF FUQUA BLVD,Airport,Theft,All other larceny,Committed,Open,Unmapped,
+1,2019-00002818,01/03/2019 08:22:00 AM,4900 Block of FIJI CIR,Residence/Single,Theft,All other larceny,Committed,Closed,Mapped,"(28.60235426, -81.43691172)"
+2,2020-00004890,01/05/2020 09:48:00 AM,9300 Block of JEFF FUQUA BLVD,Airport,Theft,All other larceny,Committed,Closed,Unmapped,
+3,2020-00007368,01/07/2020 01:04:00 PM,4700 Block of N PINE HILLS RD,Apartment/Condo,Robbery,Robbery,Committed,Arrest,Mapped,"(28.60018728, -81.45147832)"
+4,2020-00008073,01/08/2020 01:18:00 AM,9400 Block of JEFF FUQUA BLVD,Airport,Theft,All other larceny,Committed,Closed,Unmapped,
+5,2013-00430910,10/14/2013 03:06:00 PM,700 Block of S ORANGE BLOSSOM TRL,Hotel/Motel,Assault,Simple assault,Committed,Closed,Unmapped,
+6,2019-00011880,01/09/2019 08:17:00 PM,1900 Block of CONWAY RD,Apartment/Condo,Assault,Simple assault,Committed,Inactive,Mapped,"(28.51715097, -81.33099064)"
+7,2016-00037853,01/26/2016 11:19:00 PM,EW WBO / OLD WINTER GARDEN RD,Highway/Road/Alley,Narcotics,Drugs/narcotics,Committed,Arrest,Unmapped,
+8,2017-00145431,04/14/2017 10:10:00 AM,W SOUTH ST / RITTER CT,Highway/Road/Alley,Robbery,Robbery,Committed,Closed,Unmapped,
+9,2013-00537870,12/24/2013 03:39:00 PM,1 Block of JEFF FUQUA BV,Airport,Theft,All other larceny,Committed,Closed,Unmapped,
+10,2019-00015756,01/12/2019 12:39:00 PM,8200 Block of NEMOURS PKWY,Construction Site,Robbery,Robbery,Committed,Closed,Unmapped,
+11,2019-00025822,01/19/2019 01:10:00 PM,3500 Block of GARDENS RIDGE WAY,Department/Discount Store,Theft,Shoplifting,Committed,Arrest,Unmapped,
+12,2020-00022339,01/19/2020 02:51:00 AM,3200 Block of S SEMORAN BLVD,Highway/Road/Alley,Assault,Simple assault,Committed,Inactive,Mapped,"(28.51083543, -81.31031512)"
+13,2011-00402902,09/10/2011 05:27:00 PM,900 Block of S ORANGE BLOSSOM TRL,Convenience Store,Theft,Shoplifting,Committed,Closed,Unmapped,
+14,2020-00025508,01/21/2020 10:00:00 PM,1300 Block of S ORANGE BLOSSOM TRL,Highway/Road/Alley,Narcotics,Drugs/narcotics,Committed,Arrest,Unmapped,
+15,2017-00058624,02/12/2017 12:39:00 AM,W COLONIAL DR / PUTNAM AVE,Highway/Road/Alley,Narcotics,Drugs/narcotics,Committed,Arrest,Unmapped,
+16,2020-00031821,01/27/2020 12:53:00 AM,500 Block of S ORANGE BLOSSOM TRL,Convenience Store,Vehicle Theft,Motor vehicle theft,Committed,Closed,Unmapped,
+17,2020-00033307,01/28/2020 07:50:00 AM,9400 Block of JEFF FUQUA BLVD,Airport,Fraud,False pretense/swindle/confidence game,Committed,Closed,Unmapped,
+18,2020-00037177,01/31/2020 08:10:00 AM,500 Block of N JOHN YOUNG PKWY,Bus/Rail Terminal,Assault,Simple assault,Committed,Arrest,Mapped,"(28.54799721, -81.41373753)"
+19,2010-00800219,01/28/2010 12:47:00 PM,4100 Block of N ORANGE BLOSSOM TL,Construction Site,Theft,All other larceny,Committed,Closed,Unmapped,
+20,2020-00043671,02/05/2020 02:21:00 PM,9200 Block of JEFF FUQUA BLVD,Airport,Theft,All other larceny,Committed,Closed,Unmapped,
+21,2019-00056496,02/11/2019 11:02:00 AM,4200 Block of CONROY RD,Mall,Theft,All other larceny,Committed,Closed,Mapped,"(28.48698571, -81.42773469)"
+22,2019-00058055,02/12/2019 01:57:00 PM,7000 Block of NARCOOSSEE RD,Hardware Store,Theft,Shoplifting,Committed,Arrest,Mapped,"(28.46527982, -81.27544467)"
+23,2020-00051302,02/11/2020 11:56:00 AM,9400 Block of JEFF FUQUA BLVD,Airport,Theft,All other larceny,Committed,Open,Unmapped,
+24,2020-00054155,02/13/2020 09:56:00 AM,9300 Block of JEFF FUQUA BLVD,Airport,Theft,All other larceny,Committed,Closed,Unmapped,
+25,2016-00355771,09/01/2016 08:47:00 AM,700 Block of S ORANGE BLOSSOM TRL,Hotel/Motel,Theft,All other larceny,Committed,Inactive,Unmapped,
+26,2010-00800220,01/28/2010 12:54:00 PM,4100 Block of N ORANGE BLOSSOM TL,Industrial/Mfg,Theft,All other larceny,Committed,Closed,Unmapped,
+27,2020-00057315,02/15/2020 06:50:00 PM,PARK CENTRAL BLVD/AMERICANA BLVD,Convenience Store,Robbery,Robbery,Committed,Closed,Unmapped,
+28,2010-00800221,01/28/2010 01:02:00 PM,4100 Block of N ORANGE BLOSSOM TL,Industrial/Mfg,Theft,All other larceny,Committed,Closed,Unmapped,
+29,2014-00341359,08/16/2014 04:22:00 AM,1 Block of W WASHINGTON ST,Parking Lot - Surface,Theft,All other larceny,Committed,Closed,Unmapped,
+30,2013-00148303,04/10/2013 12:39:00 PM,5200 Block of N ORANGE BLOSSOM TRL,Apartment/Condo,Theft,All other larceny,Committed,Closed,Unmapped,
+31,2012-00531112,12/26/2012 10:03:00 AM,9300 Block of AIRPORT BV,Airport,Assault,Simple assault,Committed,Arrest,Unmapped,
+32,2017-00386858,10/02/2017 10:52:00 AM,LAKE DOT CIR / W CONCORD ST,Highway/Road/Alley,Assault,Simple assault,Committed,Arrest,Unmapped,
+33,2014-00260724,06/22/2014 03:02:00 AM,PLEASANT VALLEY CT / CADOGAN AV,Highway/Road/Alley,Narcotics,Drugs/narcotics,Committed,Arrest,Unmapped,
+34,2019-00091971,03/09/2019 03:13:00 PM,4200 Block of CONROY RD,Mall,Theft,Shoplifting,Committed,Closed,Mapped,"(28.48698571, -81.42773469)"
+35,2019-00095114,03/11/2019 10:26:00 PM,5700 Block of COMMANDER DR,Highway/Road/Alley,Narcotics,Drugs/narcotics,Committed,Arrest,Unmapped,
+36,2020-00084646,03/07/2020 04:13:00 PM,9200 Block of JEFF FUQUA BLVD,Airport,Assault,Simple assault,Committed,Closed,Unmapped,
+37,2015-00163860,04/21/2015 11:59:00 PM,800 Block of S SEMORAN BV,Gas Station,Narcotics,Drugs/narcotics,Committed,Arrest,Unmapped,
+38,2019-00102224,03/16/2019 06:07:00 PM,4100 Block of CONROY RD,Clothing Store,Theft,Shoplifting,Committed,Closed,Mapped,"(28.48698571, -81.42773469)"
+39,2015-00312138,07/31/2015 08:57:00 PM,1 Block of W MILLER ST,Drug Store,Assault,Simple assault,Committed,Closed,Unmapped,
+40,2020-00093378,03/14/2020 06:35:00 AM,LIME AVE / W SOUTH ST,Highway/Road/Alley,Robbery,Robbery,Committed,Closed,Mapped,"(28.53829096, -81.38796123)"
+41,2012-00152443,04/10/2012 03:28:00 PM,100 Block of W MILLER ST,Drug Store,Theft,All other larceny,Committed,Closed,Unmapped,
+42,2020-00097882,03/18/2020 07:05:00 AM,900 Block of S ORANGE BLOSSOM TRL,Gas Station,Theft,Shoplifting,Committed,Arrest,Unmapped,
+43,2020-00094057,03/14/2020 09:25:00 PM,1500 Block of S SEMORAN BLVD,Restaurant/Fast Food,Assault,Simple assault,Committed,Inactive,Unmapped,
+44,2019-00114041,03/26/2019 07:56:00 AM,1500 Block of AARON AVE,School,Assault,Simple assault,Committed,Inactive,Mapped,"(28.52377872, -81.43230433)"
+45,2019-00115915,03/27/2019 03:00:00 PM,4000 Block of CONROY RD,Clothing Store,Theft,Shoplifting,Committed,Closed,Mapped,"(28.48698571, -81.42773469)"
+46,2020-00117057,04/07/2020 07:09:00 AM,900 Block of S ORANGE BLOSSOM TRL,Gas Station,Assault,Simple assault,Committed,Arrest,Unmapped,
+47,2017-00015422,01/12/2017 12:15:00 PM,1 Block of E GRANT ST,Parking Garage,Theft,All other larceny,Committed,Closed,Unmapped,
+48,2019-00135007,04/10/2019 02:30:00 PM,8100 Block of ELION ST,Residence/Single,Theft,All other larceny,Committed,Inactive,Unmapped,
+49,2020-00123720,04/14/2020 09:58:00 AM,9300 Block of JEFF FUQUA BLVD,Airport,Vehicle Theft,Motor vehicle theft,Committed,Closed,Unmapped,
+50,2020-00119363,04/09/2020 01:04:00 PM,9300 Block of JEFF FUQUA BLVD,Airport,Vehicle Theft,Motor vehicle theft,Committed,Closed,Unmapped,
+51,2017-00081204,02/28/2017 03:42:00 AM,6200 Block of W SAND LAKE RD,Motor Vechicle,Narcotics,Drugs/narcotics,Committed,Open,Unmapped,
+52,2020-00125362,04/15/2020 07:07:00 PM,100 Block of S ORANGE AVE,Drug Store,Theft,Shoplifting,Committed,Arrest,Mapped,"(28.54081518, -81.37902128)"
+53,2019-00140792,04/14/2019 06:45:00 PM,900 Block of W COLONIAL DR,Convenience Store,Robbery,Robbery,Committed,Closed,Mapped,"(28.55298203, -81.39244646)"
+54,2017-00119296,03/27/2017 12:23:00 PM,RUGBY ST / EDGEWATER DR,Motor Vechicle,Narcotics,Drugs/narcotics,Committed,Arrest,Unmapped,
+55,2019-00150078,04/21/2019 07:07:00 AM,2100 Block of W WASHINGTON ST,Convenience Store,Robbery,Robbery,Committed,Closed,Mapped,"(28.54444182, -81.40913362)"
+56,2020-00136872,04/27/2020 10:48:00 PM,9200 Block of JEFF FUQUA BLVD,Airport,Vehicle Theft,Motor vehicle theft,Attempted,Arrest,Unmapped,
+57,2017-00400687,10/11/2017 07:11:00 PM,RIO LN / GRANT ST,Highway/Road/Alley,Narcotics,Drugs/narcotics,Committed,Arrest,Unmapped,
+58,2019-00159332,04/27/2019 09:28:00 PM,5900 Block of S KIRKMAN RD,Hotel/Motel,Robbery,Robbery,Committed,Closed,Mapped,"(28.47673752, -81.45878541)"
+59,2017-00424719,10/28/2017 07:21:00 PM,METROPOLIS WAY / S KIRKMAN RD,Highway/Road/Alley,Narcotics,Drugs/narcotics,Committed,Arrest,Unmapped,
+60,2019-00163168,04/30/2019 07:39:00 PM,3100 Block of FITZGERALD DR,Highway/Road/Alley,Narcotics,Drugs/narcotics,Committed,Arrest,Mapped,"(28.54112101, -81.41635944)"
+61,2020-00153737,05/12/2020 09:34:00 PM,4700 Block of N PINE HILLS RD,Highway/Road/Alley,Narcotics,Drugs/narcotics,Committed,Arrest,Mapped,"(28.60018728, -81.45147832)"
+62,2017-00377565,09/25/2017 04:12:00 PM,C R SMITH ST/S JOHN YOUNG PKWY,Highway/Road/Alley,Narcotics,Drugs/narcotics,Committed,Arrest,Unmapped,
+63,2019-00168731,05/04/2019 05:24:00 PM,4200 Block of CONROY RD,Mall,Theft,Shoplifting,Committed,Arrest,Mapped,"(28.48698571, -81.42773469)"
+64,2020-00159185,05/17/2020 06:18:00 PM,9200 Block of JEFF FUQUA BLVD,Airport,Vehicle Theft,Motor vehicle theft,Committed,Arrest,Unmapped,
+65,2020-00160852,05/19/2020 02:32:00 AM,5800 Block of SUNDOWN CIR,Vacant Apartment,Narcotics,Drugs/narcotics,Committed,Open,Unmapped,
+66,2012-00522913,12/19/2012 11:13:00 PM,300 Block of S ORANGE BLOSSOM TRL,Other,Theft,All other larceny,Committed,Arrest,Unmapped,
+67,2011-00239631,05/30/2011 11:52:00 PM,500 Block of S ORANGE BLOSSOM TRL,Highway/Road/Alley,Robbery,Robbery,Committed,Closed,Unmapped,
+68,2020-00173527,05/30/2020 03:45:00 AM,4600 Block of N ORANGE BLOSSOM TRL,Gas Station,Assault,Simple assault,Committed,Closed,Unmapped,
+69,2019-00185816,05/17/2019 12:45:00 AM,800 Block of PEDRO AVE,Field/Woods,Arson,Arson,Committed,Closed,Mapped,"(28.5323166, -81.30682415)"
+70,2020-00178490,06/04/2020 06:47:00 AM,9200 Block of JEFF FUQUA BLVD,Airport,Theft,All other larceny,Committed,Open,Unmapped,
+71,2020-00179015,06/04/2020 05:16:00 PM,9100 Block of JEFF FUQUA BLVD,Airport,Assault,Simple assault,Committed,Closed,Unmapped,
+72,2020-00183636,06/09/2020 02:42:00 PM,3100 Block of W PRINCETON ST,Department/Discount Store,Theft,Shoplifting,Committed,Arrest,Mapped,"(28.56972275, -81.41891423)"
+73,2019-00190426,05/20/2019 11:11:00 AM,9400 Block of JEFF FUQUA BLVD,Airport,Theft,All other larceny,Committed,Open,Mapped,"(28.43180352, -81.30852827)"
+74,2019-00192416,05/21/2019 06:52:00 PM,4000 Block of CONROY RD,Mall,Theft,Shoplifting,Committed,Closed,Mapped,"(28.48698571, -81.42773469)"
+75,2010-00256821,06/01/2010 12:35:00 PM,1700 Block of LEE RD,Auto Repair Shop,Theft,All other larceny,Committed,Closed,Unmapped,
+76,2019-00193537,05/22/2019 02:24:00 PM,4200 Block of CONROY RD,Mall,Theft,Shoplifting,Committed,Closed,Mapped,"(28.48698571, -81.42773469)"
+77,2019-00202029,05/28/2019 08:43:00 PM,1300 Block of W GORE ST,Parking Lot - Surface,Robbery,Robbery,Committed,Closed,Mapped,"(28.53111003, -81.39838348)"
+78,2019-00202874,05/29/2019 01:19:00 PM,JEFF FUQUA BLVD,Airport,Theft,All other larceny,Committed,Open,Mapped,"(28.43180352, -81.30852827)"
+79,2020-00191982,06/17/2020 06:51:00 AM,700 Block of CORNELIA CT,Residence/Single,Theft,All other larceny,Attempted,Closed,Unmapped,
+80,2020-00198462,06/23/2020 06:35:00 PM,800 Block of S SEMORAN BLVD,Gas Station,Theft,Shoplifting,Committed,Closed,Unmapped,
+81,2020-00201455,06/26/2020 03:39:00 PM,9700 Block of JEFF FUQUA BLVD,Airport,Theft,All other larceny,Committed,Open,Unmapped,
+82,2020-01000049,01/02/2020 07:22:00 PM,9200 Block of JEFF FUQUA BLVD,Airport,Theft,All other larceny,Committed,Open,Unmapped,
+83,2010-00454198,09/25/2010 02:37:00 AM,5200 Block of N ORANGE BLOSSOM TRL,Apartment/Condo,Assault,Simple assault,Committed,Closed,Unmapped,
+84,2020-00203592,06/28/2020 09:09:00 PM,9400 Block of JEFF FUQUA BLVD,Airport,Theft,All other larceny,Committed,Closed,Unmapped,
+85,2019-00229246,06/18/2019 11:59:00 AM,3500 Block of GARDENS RIDGE WAY,Sporting Goods,Theft,Shoplifting,Committed,Closed,Unmapped,
+86,2020-01001092,03/19/2020 10:40:00 AM,8600 Block of BEAR RD,Airport,Theft,All other larceny,Committed,Closed,Unmapped,
+87,2020-01000856,02/29/2020 10:29:00 AM,9200 Block of JEFF FUQUA BLVD,Airport,Theft,All other larceny,Committed,Closed,Unmapped,
+88,2020-01002134,06/29/2020 05:37:00 PM,3300 Block of WESTCHESTER SQUARE BLVD,Parking Lot - Mall,Theft,Theft from motor vehicle except parts/accessories,Committed,Closed,Mapped,"(28.50714507, -81.47260082)"
+89,2020-01002130,06/29/2020 01:57:00 PM,1600 Block of GLENDALE RD,Residence/Single,Theft,All other larceny,Committed,Closed,Mapped,"(28.56332297, -81.45669135)"
+90,2020-01002146,06/30/2020 12:06:00 PM,6200 Block of INTERNATIONAL DR,Hotel/Motel,Theft,Theft from motor vehicle except parts/accessories,Committed,Closed,Mapped,"(28.46193929, -81.46575106)"
+91,2020-01002151,06/30/2020 08:37:00 PM,8600 Block of DUFFERIN LN,Parking Garage,Theft,Theft from motor vehicle except parts/accessories,Committed,Closed,Mapped,"(28.44083505, -81.24249601)"
+92,2020-01002143,06/30/2020 10:27:00 AM,10100 Block of GREENSTONE RIDGE ST,Construction Site,Burglary,Burglary/breaking and entering,Committed,Closed,Mapped,"(28.43069421, -81.23118764)"
+93,2020-01002131,06/29/2020 01:59:00 PM,4900 Block of INTERNATIONAL DR,Mall,Theft,All other larceny,Committed,Closed,Mapped,"(28.47391409, -81.44958997)"
+94,2020-01002145,06/30/2020 11:40:00 AM,5900 Block of S GOLDENROD RD,Grocery/Supermarket,Theft,All other larceny,Committed,Closed,Mapped,"(28.47526306, -81.28978892)"
+95,2020-01002128,06/29/2020 12:31:00 PM,600 Block of BOURNE PL,Residence/Single,Theft,All other larceny,Committed,Closed,Mapped,"(28.53377982, -81.3692393)"
+96,2020-01002132,06/30/2020 04:51:00 AM,1000 Block of S HIAWASSEE RD,Apartment/Condo,Theft,All other larceny,Committed,Closed,Mapped,"(28.52897994, -81.47496653)"
+97,2020-01002148,06/30/2020 01:38:00 PM,6000 Block of UNIVERSAL BLVD,Specialty Store,Theft,All other larceny,Committed,Open,Mapped,"(28.47343236, -81.4641098)"
+98,2020-01002129,06/29/2020 01:49:00 PM,1900 Block of LAKEMONT AVE,Parking Garage,Theft,All other larceny,Committed,Closed,Mapped,"(28.57030345, -81.32748131)"
+99,2020-01002133,06/29/2020 04:34:00 PM,2800 Block of PLAZA TERRACE DR,Apartment/Condo,Theft,Theft from motor vehicle except parts/accessories,Committed,Closed,Mapped,"(28.56191691, -81.34548516)"

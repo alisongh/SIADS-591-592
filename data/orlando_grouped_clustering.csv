@@ -1,0 +1,126 @@
+,Name,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,33rd Street Industrial,28.505090000000052,-81.43109999999996,0,Auto Workshop,Athletics & Sports,Farmers Market,Rental Car Location,Outdoor Sculpture,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Optical Shop
+1,Airport North,28.46302000000003,-81.30760999999995,2,Hotel,Breakfast Spot,Restaurant,American Restaurant,Gym / Fitness Center,Pizza Place,Mexican Restaurant,Clothing Store,Movie Theater,Cosmetics Shop
+2,Audubon Park,28.565170000000023,-81.34261999999995,1,Karaoke Bar,Coffee Shop,Market,Sandwich Place,Donut Shop,Cupcake Shop,Record Shop,Convenience Store,Ramen Restaurant,Food & Drink Shop
+3,Azalea Park,28.532910000000072,-81.31040999999999,1,Electronics Store,Breakfast Spot,Convenience Store,Gas Station,Discount Store,Latin American Restaurant,ATM,Pet Service,Performing Arts Venue,Pawn Shop
+4,Bal Bay,28.42758235692473,-81.5695418283814,0,Gym,ATM,Pet Service,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+5,Baldwin Park,28.566400000000044,-81.32508999999999,1,Italian Restaurant,Asian Restaurant,Sushi Restaurant,Brewery,French Restaurant,Burger Joint,Mexican Restaurant,Spa,Grocery Store,Candy Store
+6,Bel Air,28.521755050225536,-81.32326527843759,1,Gym,ATM,Pet Service,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+7,Beltway Commerce Center,28.56951898485235,-81.30354428488796,1,Insurance Office,American Restaurant,Farm,Café,Rental Car Location,Pet Store,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant
+8,Boggy Creek,28.436500000000024,-81.34972999999997,2,Intersection,Moving Target,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office,Optical Shop,Outdoor Sculpture
+9,Bryn Mawr,28.508170000000064,-81.31946999999997,1,Cocktail Bar,Lounge,ATM,Outdoor Sculpture,Pet Service,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Office
+10,Callahan,28.545970000000068,-81.38908999999995,1,Tennis Court,Rental Car Location,Hotel,Food Truck,North Indian Restaurant,Park,Paper / Office Supplies Store,Outdoor Sculpture,Optical Shop,Office
+11,Camellia Gardens,28.522924052468746,-81.29789956304589,1,Intersection,Residential Building (Apartment / Condo),Electronics Store,Lounge,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office,Pet Store
+12,Carver Shores,28.526190000000042,-81.44660999999996,0,Pizza Place,ATM,Pet Service,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+13,Catalina,28.514050000000054,-81.41722999999996,0,Lake,Hotel,Thai Restaurant,ATM,Pawn Shop,Park,Paper / Office Supplies Store,Outdoor Sculpture,Optical Shop,Office
+14,Central Business District,28.54838061813682,-81.4127999726369,0,Bakery,Gas Station,Deli / Bodega,Convenience Store,Coffee Shop,Office,Home Service,Paper / Office Supplies Store,Pet Service,Performing Arts Venue
+15,City of Orlando/GOAA,28.537570000000073,-81.39774999999997,0,Fried Chicken Joint,Food Truck,Convenience Store,Ice Cream Shop,Playground,Brewery,Optical Shop,Pawn Shop,Park,Paper / Office Supplies Store
+16,Clear Lake,28.52905000000004,-81.41218999999995,0,Lake,Grocery Store,ATM,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Outdoor Sculpture,Optical Shop,Pet Store
+17,College Park,28.571090000000027,-81.39372999999995,1,Italian Restaurant,Café,Sandwich Place,Intersection,Tex-Mex Restaurant,BBQ Joint,Seafood Restaurant,Thrift / Vintage Store,Bubble Tea Shop,Burger Joint
+18,Colonial Town Center,28.557960000000037,-81.34398999999996,1,Gym,Comic Shop,Lingerie Store,Bakery,Steakhouse,Snack Place,Big Box Store,Cosmetics Shop,Department Store,Video Game Store
+19,Colonialtown North,28.55905000000007,-81.35924999999997,1,Gym Pool,Coffee Shop,Playground,Memorial Site,Park,Dive Bar,Gym / Fitness Center,Office,Optical Shop,Outdoor Sculpture
+20,Colonialtown South,28.549500000000023,-81.35764999999998,1,Asian Restaurant,Sushi Restaurant,Vietnamese Restaurant,Discount Store,Bridal Shop,Bubble Tea Shop,Paper / Office Supplies Store,Business Service,Spa,Pet Store
+21,Conway,28.517370000000028,-81.33510999999999,1,Massage Studio,ATM,Moving Target,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office,Optical Shop
+22,Countryside,28.555820029487748,-81.40924580768983,0,Cosmetics Shop,Hotel Bar,Restaurant,Pawn Shop,Mediterranean Restaurant,Financial or Legal Service,Clothing Store,Latin American Restaurant,Szechuan Restaurant,Wings Joint
+23,Coytown,28.555630000000065,-81.35000999999994,1,Restaurant,Deli / Bodega,Pizza Place,Coffee Shop,Vietnamese Restaurant,Gym,Fried Chicken Joint,Mexican Restaurant,Thai Restaurant,Big Box Store
+24,Crescent Park,28.46019000000007,-81.33586999999994,2,Park,ATM,Salad Place,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+25,Delaney Park,28.52579000000003,-81.36979999999994,1,Baseball Field,Camera Store,Park,Optical Shop,ATM,Pet Service,Performing Arts Venue,Pawn Shop,Paper / Office Supplies Store,Outdoor Sculpture
+26,Dixie Belle,28.52258000000006,-81.31501999999995,1,Intersection,Department Store,Paper / Office Supplies Store,Grocery Store,Fast Food Restaurant,Pizza Place,Pawn Shop,Clothing Store,Home Service,Bank
+27,Dover Estates,28.521120000000053,-81.32420999999994,1,Bistro,Pizza Place,Gym / Fitness Center,Optical Shop,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Outdoor Sculpture,Office
+28,Dover Manor,28.528350000000046,-81.32189999999997,1,Park,Gym,ATM,Pet Service,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant
+29,Dover Shores East,28.53111000000007,-81.32748999999995,1,,,,,,,,,,
+30,Dover Shores West,28.527570000000026,-81.33738999999997,1,Cosmetics Shop,Pizza Place,Spanish Restaurant,Fast Food Restaurant,Cuban Restaurant,Ice Cream Shop,Residential Building (Apartment / Condo),Pet Service,Nature Preserve,New American Restaurant
+31,Eagles Nest,28.515760000000057,-81.45272999999997,0,Clothing Store,BBQ Joint,Park,Outdoor Sculpture,Pet Service,Performing Arts Venue,Pawn Shop,Paper / Office Supplies Store,ATM,Pharmacy
+32,East Central Park,28.543710000000033,-81.34776999999997,1,Food Truck,Bar,Convenience Store,Vietnamese Restaurant,Boutique,Park,Sports Bar,Beer Garden,Pub,Mexican Restaurant
+33,East Park,28.422470000000033,-81.23739999999998,2,Basketball Court,Park,ATM,Pet Service,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant
+34,Education Village,28.36791500000004,-81.42701199999993,0,Latin American Restaurant,Bank,Sushi Restaurant,Sandwich Place,American Restaurant,Ice Cream Shop,Gym,Pharmacy,Clothing Store,Coffee Shop
+35,Engelwood Park,28.531720000000064,-81.30208999999996,1,Athletics & Sports,Food,Park,Pet Store,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+36,Florida Center,28.463490000000036,-81.45626999999996,0,Theme Park Ride / Attraction,Brazilian Restaurant,Go Kart Track,Sporting Goods Shop,Resort,Fast Food Restaurant,Sushi Restaurant,Discount Store,Grocery Store,Motel
+37,Florida Center North,28.49436000000003,-81.44556999999998,0,Gym / Fitness Center,Pool,Tennis Court,Lounge,Pawn Shop,Park,Paper / Office Supplies Store,Outdoor Sculpture,Optical Shop,North Indian Restaurant
+38,Haralson Estates,28.548740000000066,-81.41619999999995,0,Gas Station,Convenience Store,Bakery,Intersection,Bus Station,Pizza Place,Home Service,Coffee Shop,Deli / Bodega,Fast Food Restaurant
+39,Hibiscus,28.544820000000072,-81.31476999999995,1,Convenience Store,Latin American Restaurant,Cuban Restaurant,Baseball Field,South American Restaurant,Shoe Store,Paper / Office Supplies Store,Pet Service,Performing Arts Venue,Pawn Shop
+40,Holden Heights,28.525580000000048,-81.39140999999995,0,Park,ATM,Salad Place,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+41,Holden/Parramore,28.537680000000023,-81.39154999999994,0,Soccer Stadium,BBQ Joint,Brewery,Pool,Arts & Crafts Store,Food Truck,Café,Bar,Gay Bar,Sausage Shop
+42,Johnson Village,28.522820000000024,-81.42256999999995,0,Theater,Soccer Field,Pool,ATM,Park,Paper / Office Supplies Store,Outdoor Sculpture,Optical Shop,Office,Performing Arts Venue
+43,Kirkman North,28.51389000000006,-81.45795999999996,0,Sandwich Place,Pizza Place,Ice Cream Shop,Mobile Phone Shop,Brazilian Restaurant,Fast Food Restaurant,Cosmetics Shop,Smoothie Shop,Chinese Restaurant,Seafood Restaurant
+44,Kirkman South,28.494230000000073,-81.46445999999997,0,Sandwich Place,Mexican Restaurant,Pharmacy,Pizza Place,Sushi Restaurant,Coffee Shop,Supplement Shop,Optical Shop,Sports Bar,Burger Joint
+45,Lake Cherokee,28.533920000000023,-81.37243999999998,1,Park,Bed & Breakfast,Lawyer,Pool,ATM,Optical Shop,Pawn Shop,Paper / Office Supplies Store,Outdoor Sculpture,Office
+46,Lake Como,28.53141000000005,-81.34995999999995,1,Playground,Lake,Park,Surf Spot,ATM,Pawn Shop,Paper / Office Supplies Store,Outdoor Sculpture,Optical Shop,Office
+47,Lake Copeland,28.52596531754843,-81.37975507491242,1,Café,Pizza Place,Train Station,Sandwich Place,Pharmacy,Mexican Restaurant,Brewery,New American Restaurant,American Restaurant,Thai Restaurant
+48,Lake Davis/Greenwood,28.53382000000005,-81.36299999999994,1,Park,Sandwich Place,Cemetery,ATM,Optical Shop,Performing Arts Venue,Pawn Shop,Paper / Office Supplies Store,Outdoor Sculpture,Office
+49,Lake Dot,28.551920000000052,-81.38909999999998,1,Lawyer,Discount Store,Park,Tennis Court,Hobby Shop,Furniture / Home Store,Korean Restaurant,New American Restaurant,Convenience Store,Nightclub
+50,Lake Eola Heights,28.549840000000074,-81.37061999999997,1,Greek Restaurant,Food & Drink Shop,Intersection,Pizza Place,Breakfast Spot,Lake,Brewery,Hotel,Lawyer,Performing Arts Venue
+51,Lake Fairview,28.601200000000063,-81.41436999999996,0,Soccer Field,Park,Wings Joint,Baseball Stadium,Convenience Store,Lake,Athletics & Sports,Antique Shop,Hobby Shop,Pet Store
+52,Lake Formosa,28.567670000000078,-81.36888999999996,1,Bar,Furniture / Home Store,Gay Bar,Sushi Restaurant,Beer Bar,Restaurant,Smoke Shop,Sports Bar,Tapas Restaurant,Gift Shop
+53,Lake Fredrica,28.513840000000073,-81.30355999999995,1,Café,Pool,Beach,ATM,Outdoor Sculpture,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Optical Shop
+54,Lake Holden,28.512022136842884,-81.3828077088695,1,Big Box Store,Ice Cream Shop,Construction & Landscaping,Coffee Shop,Outdoor Sculpture,Pet Service,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store
+55,Lake Mann Estates,28.538170000000036,-81.41654999999997,0,Hookah Bar,Pub,Music Venue,Pawn Shop,Park,Paper / Office Supplies Store,Outdoor Sculpture,Optical Shop,Office,ATM
+56,Lake Mann Gardens,28.531890000000033,-81.43419999999998,0,Pharmacy,BBQ Joint,Food,Discount Store,Outdoor Sculpture,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Optical Shop
+57,Lake Nona Central,28.398653414057105,-81.25060080423849,2,Residential Building (Apartment / Condo),ATM,Pet Service,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+58,Lake Nona Estates,28.398653414057105,-81.25060080423849,2,Residential Building (Apartment / Condo),ATM,Pet Service,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+59,Lake Nona South,28.398653414057105,-81.25060080423849,2,Residential Building (Apartment / Condo),ATM,Pet Service,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+60,Lake Richmond,28.51186000000007,-81.44053999999994,0,Gymnastics Gym,Skate Park,Dance Studio,General Entertainment,Business Service,Toy / Game Store,Furniture / Home Store,Construction & Landscaping,Ramen Restaurant,Pet Service
+61,Lake Shore Village,28.575281090882687,-81.35773480414187,1,Lake,Park,Bar,Lawyer,Theater,Pet Service,Pawn Shop,Paper / Office Supplies Store,Outdoor Sculpture,ATM
+62,Lake Sunset,28.534760000000063,-81.40951999999999,0,Convenience Store,Park,Moving Target,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office,Optical Shop
+63,Lake Terrace,28.521630000000073,-81.34750999999994,1,Italian Restaurant,Discount Store,Video Store,Mexican Restaurant,Sandwich Place,Liquor Store,Convenience Store,Coffee Shop,Food Truck,Brewery
+64,Lake Underhill,28.534260000000074,-81.33781999999997,1,Gym / Fitness Center,Lake,Harbor / Marina,Pool,Music Venue,Record Shop,Pet Service,Nail Salon,Nature Preserve,New American Restaurant
+65,Lake Weldona,28.529100000000028,-81.36240999999995,1,Park,Intersection,Sandwich Place,Pet Store,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+66,Lancaster Park,28.523570000000063,-81.36353999999994,1,Intersection,Bed & Breakfast,Trail,Park,Coffee Shop,Pub,Gym,Nightclub,New American Restaurant,North Indian Restaurant
+67,LaVina,28.428600000000074,-81.25202999999993,2,Sushi Restaurant,Frozen Yogurt Shop,Bakery,Theme Restaurant,Pizza Place,American Restaurant,Gym / Fitness Center,ATM,Outdoor Sculpture,Park
+68,Lawsona/Fern Creek,28.542860000000076,-81.35693999999995,1,Park,Convenience Store,Moving Target,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office,Optical Shop
+69,Lorna Doone,28.53806000000003,-81.40137999999996,0,Fried Chicken Joint,Park,Convenience Store,Ice Cream Shop,Football Stadium,Playground,Stadium,Baseball Stadium,ATM,Optical Shop
+70,Malibu Groves,28.540320000000065,-81.43712999999997,0,Bakery,Laundromat,ATM,Outdoor Sculpture,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Optical Shop,Pet Store
+71,Mariners Village,28.51222000000007,-81.32973299999998,1,Gym,Video Store,Gift Shop,Chinese Restaurant,Food Truck,Professional & Other Places,Optical Shop,Italian Restaurant,Discount Store,Sandwich Place
+72,Mercy Drive,28.558890000000076,-81.43324999999999,0,,,,,,,,,,
+73,MetroWest,28.518710000000056,-81.47800999999998,0,Pharmacy,Italian Restaurant,Golf Course,Optical Shop,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Outdoor Sculpture,Office
+74,Millenia,28.491370000000074,-81.42459999999994,0,Fast Food Restaurant,Mobile Phone Shop,Animal Shelter,Mattress Store,Burger Joint,Mexican Restaurant,Tex-Mex Restaurant,Furniture / Home Store,Chinese Restaurant,Food Court
+75,Monterey,28.53210000000007,-81.31492999999995,1,Convenience Store,Gas Station,Park,Breakfast Spot,ATM,Optical Shop,Performing Arts Venue,Pawn Shop,Paper / Office Supplies Store,Outdoor Sculpture
+76,Narcoossee South,28.412574000000063,-81.58577899999995,0,Hotel,American Restaurant,Resort,Gift Shop,Hotel Bar,Hotel Pool,Lounge,Cosmetics Shop,Spa,Snack Place
+77,New Malibu,28.531280000000038,-81.44037999999995,0,Clothing Store,Park,Intersection,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office,Pharmacy,Optical Shop
+78,North Orange,28.574140000000057,-81.37287999999995,1,Bakery,Convenience Store,Cafeteria,Café,Movie Theater,Motel,Pharmacy,Gym,Gym / Fitness Center,Bar
+79,NorthLake Park at Lake Nona,28.420718239734008,-81.26282373567619,2,Dog Run,Market,Athletics & Sports,Gym / Fitness Center,Nightclub,North Indian Restaurant,Office,Optical Shop,Outdoor Sculpture,New American Restaurant
+80,Orlando Executive Airport,28.540880000000072,-81.31924999999995,1,Toll Booth,Arts & Entertainment,Park,Optical Shop,Performing Arts Venue,Pawn Shop,Paper / Office Supplies Store,Outdoor Sculpture,ATM,Pet Service
+81,Orlando International Airport,28.42721000000006,-81.30802999999997,2,Airport Service,Rental Car Location,Airport Terminal,Bus Station,Gift Shop,Accessories Store,Fast Food Restaurant,Airport,Bus Stop,Snack Place
+82,Orwin Manor,28.579800000000034,-81.36437999999998,1,Cocktail Bar,Theater,ATM,Optical Shop,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Outdoor Sculpture,Office
+83,Palomar,28.586100000000044,-81.39958999999999,0,Boat Rental,ATM,Moving Target,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office,Optical Shop
+84,Park Central,28.49144000000007,-81.41295999999994,0,Wings Joint,Sandwich Place,Gym / Fitness Center,Chinese Restaurant,Bank,Grocery Store,Convenience Store,American Restaurant,Sushi Restaurant,Pizza Place
+85,Park Lake/Highland,28.557690000000036,-81.36857999999995,1,Taco Place,Asian Restaurant,Breakfast Spot,Tattoo Parlor,Gift Shop,Speakeasy,Grocery Store,Gym / Fitness Center,Food Truck,Cajun / Creole Restaurant
+86,Pershing,28.498910050140182,-81.28736000134322,2,Video Store,Convenience Store,Pizza Place,Veterans' Organization,Office,Pawn Shop,Park,Paper / Office Supplies Store,Outdoor Sculpture,Optical Shop
+87,Pineloch,28.509465316355268,-81.3613222157677,1,Convenience Store,Gas Station,Burger Joint,Eye Doctor,Lake,American Restaurant,ATM,Paper / Office Supplies Store,Performing Arts Venue,Pawn Shop
+88,Princeton/Silver Star,28.570290000000057,-81.40543999999994,0,ATM,Thrift / Vintage Store,Hardware Store,Food,Event Service,Lawyer,Food Truck,Convenience Store,Intersection,Adult Boutique
+89,Randal Park,28.440625011526073,-81.23693934401386,2,Playground,ATM,Pet Service,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+90,Richmond Estates,28.513090000000034,-81.43221999999997,0,Food,BBQ Joint,ATM,Pet Service,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+91,Richmond Heights,28.52078000000006,-81.43406999999996,0,Home Service,Park,ATM,Performing Arts Venue,Pawn Shop,Paper / Office Supplies Store,Outdoor Sculpture,Optical Shop,Office,Pet Store
+92,Rio Grande Park,28.51263000000006,-81.40616999999997,0,Home Service,Convenience Store,Print Shop,Caribbean Restaurant,ATM,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Outdoor Sculpture
+93,Rock Lake,28.549270000000035,-81.40283999999997,0,Szechuan Restaurant,American Restaurant,Food,Men's Store,Pizza Place,Park,Hotel Bar,Hotel,Bed & Breakfast,Financial or Legal Service
+94,Roosevelt Park,28.577335678167618,-81.40703086813166,0,Café,Convenience Store,Waterfront,Flower Shop,Food,Paper / Office Supplies Store,Pet Service,Performing Arts Venue,Pawn Shop,Park
+95,Rose Isle,28.57466000000005,-81.36056999999994,1,Park,Lake,Bar,Theater,ATM,Pawn Shop,Paper / Office Supplies Store,Outdoor Sculpture,Optical Shop,Pet Service
+96,Rosemont,28.59776000000005,-81.43670999999995,0,Intersection,Lake,Pool,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Outdoor Sculpture,Optical Shop,Pet Store
+97,Rosemont North,28.60489000000007,-81.44511999999997,0,,,,,,,,,,
+98,Rowena Gardens,28.56830000000008,-81.36032999999998,1,Garden,History Museum,Intersection,Japanese Restaurant,Pet Service,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub
+99,Seaboard Industrial,28.58328000000006,-81.43091999999996,0,Furniture / Home Store,Food,Paper / Office Supplies Store,Moving Target,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+100,Signal Hill,28.59737000000007,-81.44574999999998,0,Chinese Restaurant,Discount Store,Gym,Business Service,North Indian Restaurant,Office,Nightclub,Optical Shop,Outdoor Sculpture,Pharmacy
+101,South Division,28.52562000000006,-81.38472999999993,1,Flower Shop,Train Station,Bakery,Café,Brewery,Pizza Place,Business Service,American Restaurant,Shop & Service,Park
+102,South Eola,28.542290000000037,-81.37010999999995,1,American Restaurant,Pizza Place,Park,Juice Bar,Cocktail Bar,Grocery Store,Coffee Shop,Beer Bar,Thai Restaurant,Restaurant
+103,South Orange,28.52389000000005,-81.37790999999999,1,Sandwich Place,Pizza Place,Pharmacy,Train Station,New American Restaurant,Convenience Store,Bagel Shop,Café,Hotel,Mexican Restaurant
+104,South Semoran,28.500690000000077,-81.30922999999996,1,Pizza Place,Fast Food Restaurant,Chinese Restaurant,Ice Cream Shop,Pet Store,Grocery Store,Nail Salon,Asian Restaurant,Donut Shop,Cosmetics Shop
+105,Southeastern Oaks,28.464023000000054,-81.41780899999998,0,Gymnastics Gym,Bakery,Shipping Store,ATM,Outdoor Sculpture,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Optical Shop
+106,Southern Oaks,28.504650000000026,-81.36491999999998,1,Lake,Pool,ATM,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Outdoor Sculpture,Optical Shop,Pet Store
+107,Southport,28.43363000000005,-81.34181999999998,2,Insurance Office,Moving Target,Locksmith,Residential Building (Apartment / Condo),Pet Service,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant
+108,Spring Lake,28.557060000000035,-81.40258999999998,0,Golf Course,ATM,Pet Service,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+109,Storey Park,28.414600632050867,-81.22008304549213,2,Gym,American Restaurant,Optical Shop,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Outdoor Sculpture,ATM,Pet Store
+110,The Dovers,28.53362000000004,-81.32244999999995,1,Park,Art Gallery,Sports Bar,ATM,Outdoor Sculpture,Performing Arts Venue,Pawn Shop,Paper / Office Supplies Store,Optical Shop,Pet Store
+111,The Willows,28.581080000000043,-81.44572999999997,0,Furniture / Home Store,Spa,Movie Theater,Music Venue,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office
+112,Thornton Park,28.54368000000005,-81.36714999999998,1,Park,Juice Bar,Pizza Place,American Restaurant,Cocktail Bar,Restaurant,Beer Bar,Convenience Store,Burger Joint,Thai Restaurant
+113,Timberleaf,28.531160000000057,-81.44802999999996,0,Home Service,Fast Food Restaurant,ATM,Performing Arts Venue,Pawn Shop,Park,Paper / Office Supplies Store,Outdoor Sculpture,Optical Shop,Pet Store
+114,North Quarter,28.556299000000024,-81.37899799999997,1,Hotel,Sandwich Place,Coffee Shop,Sushi Restaurant,Performing Arts Venue,Mexican Restaurant,Outdoor Sculpture,Bank,Art Gallery,Rental Car Location
+115,Ventura,28.509200000000078,-81.30057999999997,1,Restaurant,Arts & Crafts Store,Playground,Golf Course,Outdoor Sculpture,Pawn Shop,Park,Paper / Office Supplies Store,Optical Shop,Pet Service
+116,Vista East,28.47914000000003,-81.25502999999998,2,,,,,,,,,,
+117,Vista Park,28.459500000000048,-81.26120999999995,2,Event Service,ATM,Pet Store,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office,Optical Shop
+118,Wadeview Park,28.51800000000003,-81.37020999999999,1,Park,Concert Hall,Football Stadium,Performing Arts Venue,ATM,Pet Store,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant
+119,Washington Shores,28.53174000000007,-81.42098999999996,0,Shopping Mall,Diner,German Restaurant,BBQ Joint,New American Restaurant,Nature Preserve,Nightclub,North Indian Restaurant,Office,Pet Service
+120,Wedgewood Groves,28.56769674520884,-81.4652199211834,0,,,,,,,,,,
+121,West Colonial,28.55233000000004,-81.43038999999999,0,Shoe Store,Grocery Store,Soccer Field,Breakfast Spot,Mobile Phone Shop,Food,Thrift / Vintage Store,Furniture / Home Store,Intersection,Rental Car Location
+122,Westfield,28.541900000000055,-81.40764999999999,0,Deli / Bodega,Convenience Store,Fish Market,Baseball Stadium,Football Stadium,Sandwich Place,Intersection,Toll Booth,North Indian Restaurant,Office
+123,Williamsburg,28.396060894335523,-81.44105804765074,0,Food,ATM,Moving Target,Nail Salon,Nature Preserve,New American Restaurant,Nightclub,North Indian Restaurant,Office,Optical Shop
+124,Windhover,28.487840000000062,-81.46270999999996,0,Breakfast Spot,Fast Food Restaurant,Hotpot Restaurant,Gym,Trail,Chinese Restaurant,Sporting Goods Shop,Optical Shop,Gym / Fitness Center,American Restaurant
